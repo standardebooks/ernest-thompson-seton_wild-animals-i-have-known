@@ -29,3 +29,8 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End centered dedications */
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
