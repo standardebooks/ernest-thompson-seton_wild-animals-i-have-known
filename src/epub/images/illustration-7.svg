@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1214.772 256.515">
-  <title>3 bars of musical notation representing the call of a crow.</title>
+  <title>Three bars of musical notation depicting the call of Silverspot the Crow. This call would translate in English to “wheel around.”</title>
   <path fill="none" stroke="#000" stroke-linejoin="bevel" stroke-width="2.73" d="M336.598 386.198 1551.37 386.198M336.598 410.998 1551.37 410.998M336.598 435.798 1551.37 435.798M336.598 460.598 1551.37 460.598M336.598 485.398 1551.37 485.398" class="StaffLines" transform="translate(-336.598 -340.659)"/>
   <path fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.24" d="M612.564 179.459c22.518 24.018 72.718 30.218 100.408 12.4-28.66 25.694-78.862 19.494-100.408-12.4M342.822 179.459c22.518 24.018 72.72 30.218 100.405 12.4-28.658 25.694-78.86 19.494-100.405-12.4" class="SlurSegment"/>
   <path fill="none" stroke="#000" stroke-linejoin="bevel" stroke-width="4.46" d="M1526.32 384.834 1526.32 486.762" class="BarLine" transform="translate(-336.598 -340.659)"/>
