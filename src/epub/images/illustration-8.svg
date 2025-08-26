@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 800.012 222.089">
-  <title>A music staff representing a call from a crow</title>
+  <title>2 bars of musical notation representing the call of a crow.</title>
   <path fill="none" stroke="#000" stroke-linejoin="bevel" stroke-width="2.73" d="M336.598 386.198 1136.61 386.198M336.598 410.998 1136.61 410.998M336.598 435.798 1136.61 435.798M336.598 460.598 1136.61 460.598M336.598 485.398 1136.61 485.398" class="StaffLines" transform="translate(-336.598 -350.285)"/>
   <path fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.24" d="M284.821 145.033c22.518 24.018 72.72 30.218 100.405 12.4-28.658 25.694-78.86 19.494-100.405-12.4M554.563 145.033c22.518 24.018 72.721 30.218 100.405 12.4-28.657 25.694-78.859 19.494-100.405-12.4" class="SlurSegment"/>
   <path fill="none" stroke="#000" stroke-linejoin="bevel" stroke-width="4.46" d="M841.817 384.834 841.817 486.762M1111.56 384.834 1111.56 486.762" class="BarLine" transform="translate(-336.598 -350.285)"/>
