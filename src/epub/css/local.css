@@ -1,6 +1,12 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+@font-face{
+	font-family: "Standard Blackletter";
+	font-weight: 700;
+	src: url("../fonts/standard-blackletter.otf") format("opentype");
+}
+
 /* Centered dedications */
 section[epub|type~="dedication"]{
 	text-align: center;
@@ -118,6 +124,12 @@ section > header [epub|type~="epigraph"]{
 article > header [epub|type~="epigraph"] + *,
 section > header [epub|type~="epigraph"] + *{
 	margin-top: 3em;
+}
+
+article > header > blockquote[epub|type~="epigraph"] {
+	font-family: "Standard Blackletter";
+	font-style: normal;
+	font-variant: normal;
 }
 
 @supports(display: table){
