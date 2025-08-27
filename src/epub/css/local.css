@@ -128,6 +128,6 @@ section > header [epub|type~="epigraph"] + *{
 }
 /* End epigraphs in section headers */
 
-blockquote[epub|type="se:short-story"] > p{
-	font-style: italic;
+blockquote:has(> p:nth-of-type(2)):not(:has(> p:nth-of-type(3))) > p {
+  font-style: italic;
 }
