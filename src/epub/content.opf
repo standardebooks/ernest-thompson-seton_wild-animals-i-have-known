@@ -40,7 +40,10 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">Eight short stories about the lives of various animals across several regions of North America.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p><a href="https://standardebooks.org/ebooks/ernest-thompson-seton">Ernest Thompson Seton</a> was an American and Canadian author and artist specializing in wildlife. He was also a key figure in the founding of the Boy Scouts of America, having been the president of the committee that founded the organization and service as the only person to hold the title of “Chief Scout” in the organization's history. Written in 1898 <i>Wild Animals I Have Known</i> was his most popular work and one of the most popular fictional works of its day.</p>
+			<p>The story of “Lobo, the King of Currumpaw” recalls the life of the titular wolf in the Currumpaw region of New Mexico, and his eventual capture by the narrator.</p>
+			<p>In “Silverspot, the Story of a Crow,” we learn about Silverspot and his band of crows living near Toronto, with detailed descriptions of their communication and calls</p>
+			<p>“Raggylug, the Story of a Cottontail Rabbit” tells the tale of Raggylug and his mother Molly, a pair of rabbits and their quest for survival as new predators and threats appear in the woods and swamp that they call home.</p>
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3031</dc:source>
