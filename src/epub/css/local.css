@@ -94,7 +94,7 @@ figcaption{
 /* End all epigraphs */
 
 /* Epigraphs in section headers */
-article > header > blockquote[epub|type~="epigraph"] {
+article > header > blockquote[epub|type~="epigraph"]{
 	font-family: "Standard Blackletter";
 	font-style: normal;
 	font-variant: normal;
@@ -108,12 +108,12 @@ article > header > blockquote[epub|type~="epigraph"] {
 /* End epigraphs in section headers */
 
 #raggylug-the-story-of-a-cottontail-rabbit-2 blockquote,
-article > section > blockquote[epub|type="z3998:song"] {
-  font-style: italic;
+article > section > blockquote[epub|type="z3998:song"]{
+	font-style: italic;
 }
 
 /* Centered dedications */
-section[epub|type~="dedication"] > p:first-of-type {
+section[epub|type~="dedication"] > p:first-of-type{
 	display: inline-block;
 	margin: auto;
 	margin-top: 3em;
@@ -121,7 +121,7 @@ section[epub|type~="dedication"] > p:first-of-type {
 	text-align: right;
 }
 
-section[epub|type~="dedication"] > p:last-of-type {
+section[epub|type~="dedication"] > p:last-of-type{
 	display: inline-block;
 	margin: auto;
 	margin-top: 3em;
