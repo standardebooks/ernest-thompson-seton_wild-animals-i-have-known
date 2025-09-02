@@ -116,7 +116,6 @@ article > header > blockquote[epub|type~="epigraph"]{
 }
 /* End epigraphs in section headers */
 
-#raggylug-the-story-of-a-cottontail-rabbit-2 blockquote,
 article > section > blockquote[epub|type="z3998:song"]{
 	font-style: italic;
 }
