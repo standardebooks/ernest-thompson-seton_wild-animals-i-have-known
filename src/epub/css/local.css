@@ -84,22 +84,26 @@ figcaption{
 }
 /* End images */
 
-[epub|type~="z3998:poem"] p{
+[epub|type~="z3998:poem"] p,
+[epub|type~="z3998:soong"] p{
 	text-align: initial;
 	text-indent: 0;
 }
 
-[epub|type~="z3998:poem"] p + p{
+[epub|type~="z3998:poem"] p + p,
+[epub|type~="z3998:song"] p + p{
 	margin-top: 1em;
 }
 
-[epub|type~="z3998:poem"] p > span{
+[epub|type~="z3998:poem"] p > span,
+[epub|type~="z3998:song"] p > span{
 	display: block;
 	padding-left: 1em;
 	text-indent: -1em;
 }
 
-[epub|type~="z3998:poem"] p > span + br{
+[epub|type~="z3998:poem"] p > span + br,
+[epub|type~="z3998:song"] p > span + br{
 	display: none;
 }
 
@@ -112,18 +116,33 @@ figcaption{
 /* End all epigraphs */
 
 /* Epigraphs in section headers */
+/* Epigraphs in section headers */
+article > header [epub|type~="epigraph"],
+section > header [epub|type~="epigraph"]{
+	display: inline-block;
+	margin: auto;
+	max-width: 80%;
+	text-align: initial;
+}
+
+article > header [epub|type~="epigraph"] + *,
+section > header [epub|type~="epigraph"] + *{
+	margin-top: 3em;
+}
+
+@supports(display: table){
+	article > header [epub|type~="epigraph"],
+	section > header [epub|type~="epigraph"]{
+		display: table;
+	}
+}
+/* End epigraphs in section headers */
+
 blockquote[epub|type~="epigraph"]{
 	font-family: "Standard Blackletter";
 	font-style: normal;
 	font-variant: normal;
 }
-
-@supports(display: table){
-	article > header [epub|type~="epigraph"]{
-		display: table;
-	}
-}
-/* End epigraphs in section headers */
 
 article > section > blockquote[epub|type="z3998:song"]{
 	font-style: italic;
@@ -138,4 +157,9 @@ ul{
 	margin-bottom: 1em;
 	text-align: center;
 	text-indent: 0em;
+}
+
+p span.i2{
+	padding-left: 3em;
+	text-indent: -1em;
 }
