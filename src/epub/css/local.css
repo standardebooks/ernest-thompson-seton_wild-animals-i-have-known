@@ -85,7 +85,7 @@ figcaption{
 /* End images */
 
 [epub|type~="z3998:poem"] p,
-[epub|type~="z3998:soong"] p{
+[epub|type~="z3998:song"] p{
 	text-align: initial;
 	text-indent: 0;
 }
