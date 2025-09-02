@@ -99,22 +99,22 @@
 		<item href="images/illustration-11.svg" id="illustration-11.svg" media-type="image/svg+xml"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
-		<item href="text/bingo-the-story-of-my-dog.xhtml" id="bingo-the-story-of-my-dog.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/bingo.xhtml" id="bingo.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/lobo-the-king-of-currumpaw.xhtml" id="lobo-the-king-of-currumpaw.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/lobo.xhtml" id="lobo.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/loi.xhtml" id="loi.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/raggylug-the-story-of-a-cottontail-rabbit.xhtml" id="raggylug-the-story-of-a-cottontail-rabbit.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/redruff-the-story-of-the-don-valley-partridge.xhtml" id="redruff-the-story-of-the-don-valley-partridge.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/silverspot-the-story-of-a-crow.xhtml" id="silverspot-the-story-of-a-crow.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/raggylug.xhtml" id="raggylug.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/redruff.xhtml" id="redruff.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/silverspot.xhtml" id="silverspot.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/the-pacing-mustang.xhtml" id="the-pacing-mustang.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-springfield-fox.xhtml" id="the-springfield-fox.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/wully-the-story-of-a-yaller-dog.xhtml" id="wully-the-story-of-a-yaller-dog.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/wully.xhtml" id="wully.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
 	<spine>
@@ -123,14 +123,14 @@
 		<itemref idref="dedication.xhtml"/>
 		<itemref idref="preface.xhtml"/>
 		<itemref idref="halftitlepage.xhtml"/>
-		<itemref idref="lobo-the-king-of-currumpaw.xhtml"/>
-		<itemref idref="silverspot-the-story-of-a-crow.xhtml"/>
-		<itemref idref="raggylug-the-story-of-a-cottontail-rabbit.xhtml"/>
-		<itemref idref="bingo-the-story-of-my-dog.xhtml"/>
+		<itemref idref="lobo.xhtml"/>
+		<itemref idref="silverspot.xhtml"/>
+		<itemref idref="raggylug.xhtml"/>
+		<itemref idref="bingo.xhtml"/>
 		<itemref idref="the-springfield-fox.xhtml"/>
 		<itemref idref="the-pacing-mustang.xhtml"/>
-		<itemref idref="wully-the-story-of-a-yaller-dog.xhtml"/>
-		<itemref idref="redruff-the-story-of-the-don-valley-partridge.xhtml"/>
+		<itemref idref="wully.xhtml"/>
+		<itemref idref="redruff.xhtml"/>
 		<itemref idref="loi.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>

@@ -62,14 +62,14 @@ figure{
 	margin: 1em 2.5em;
 }
 
-#silverspot-the-story-of-a-crow figure img{
+#silverspot figure img{
 	display: block;
 	margin: auto;
 	max-height: 10vh;
 	max-width: 100%;
 }
 
-#raggylug-the-story-of-a-cottontail-rabbit figure img{
+#raggylug figure img{
 	display: block;
 	margin: auto;
 	max-height: 20vh;
@@ -148,7 +148,7 @@ ul{
 	list-style: none;
 }
 
-#redruff-the-story-of-the-don-valley-partridge-5 p:nth-of-type(5){
+#redruff-5 p:nth-of-type(5){
 	margin-bottom: 1em;
 	margin-top: 1em;
 	text-align: center;

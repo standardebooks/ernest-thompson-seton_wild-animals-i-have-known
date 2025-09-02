@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="raggylug-the-story-of-a-cottontail-rabbit.xhtml">
+	<file path="raggylug.xhtml">
 		<ignore>
 			<code>t-019</code>
 			<reason>Linter is misidentifying this phrase as a complete clause when it is not.</reason>
 		</ignore>
 	</file>
-	<file path="silverspot-the-story-of-a-crow.xhtml">
+	<file path="silverspot.xhtml">
 		<ignore>
 			<code>y-010</code>
 			<reason>The paragraph is continued after the figure, so the dialogue is not ending on a comma.</reason>
