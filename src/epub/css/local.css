@@ -123,3 +123,10 @@ article > section > blockquote[epub|type="z3998:song"]{
 ul{
 	list-style: none;
 }
+
+#redruff-the-story-of-the-don-valley-partridge-5 p:nth-of-type(5){
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-align: center;
+	text-indent: 0em;
+}
