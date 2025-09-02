@@ -112,7 +112,7 @@ figcaption{
 /* End all epigraphs */
 
 /* Epigraphs in section headers */
-article > header > blockquote[epub|type~="epigraph"]{
+blockquote[epub|type~="epigraph"]{
 	font-family: "Standard Blackletter";
 	font-style: normal;
 	font-variant: normal;
