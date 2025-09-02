@@ -119,3 +119,7 @@ article > header > blockquote[epub|type~="epigraph"]{
 article > section > blockquote[epub|type="z3998:song"]{
 	font-style: italic;
 }
+
+ul{
+	list-style: none;
+}
