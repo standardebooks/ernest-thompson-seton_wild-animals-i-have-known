@@ -144,10 +144,10 @@ ul{
 }
 
 #redruff-the-story-of-the-don-valley-partridge-5 p:nth-of-type(5){
-	margin-top: 1em;
 	margin-bottom: 1em;
+	margin-top: 1em;
 	text-align: center;
-	text-indent: 0em;
+	text-indent: 0;
 }
 
 p span.i2{
