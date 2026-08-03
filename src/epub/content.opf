@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/ernest-thompson-seton/wild-animals-i-have-known</dc:identifier>
 		<dc:date>2025-09-07T19:59:53Z</dc:date>
@@ -40,13 +40,13 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">Eight short stories about the lives of various animals across several regions of North America.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Eight short stories about the lives of various animals across several regions of North America.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Wild Animals I Have Known&lt;/i&gt;, a collection of short stories published in 1898, was &lt;a href="https://standardebooks.org/ebooks/ernest-thompson-seton"&gt;Ernest Thompson Seton’s&lt;/a&gt; most popular work and one of the most popular fiction books of its day.&lt;/p&gt;
 			&lt;p&gt;The stories are largely independent of each other, with each one following the life of a different animal. They explore themes of survival in a world populated by humans and other creatures, and the challenges that each animal faces in its efforts to thrive. Each story touches on the duality between the beauty and brutality of the natural world. The collection as a whole illustrates recurring themes of triumph and tragedy, while painting a picture of the great freedom and grave danger that animals face every day of their lives.&lt;/p&gt;
 			&lt;p&gt;In his 1903 essay “Real and Sham Natural History,” naturalist John Burroughs blamed this book in particular for founding the genre of stories he called “Nature Fakers,” sparking a controversy that raged for years and only ended when President &lt;a href="https://standardebooks.org/ebooks/theodore-roosevelt"&gt;Theodore Roosevelt&lt;/a&gt; publicly sided with Burroughs in September 1907.&lt;/p&gt;
 			&lt;p&gt;While the book’s anthropomorphization of animals through Seton’s use of English words to represent the animals’ “language” was one of the characteristics at the center of its controversy, &lt;i&gt;Wild Animals I Have Known&lt;/i&gt; was among the first literary works written with the intent to evoke a sense of empathy, rather than fear, for these wild animals, by showing that even for predators, survival in the wild is never easy.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3031</dc:source>
 		<dc:source>https://archive.org/details/bwb_T4-APT-726</dc:source>
