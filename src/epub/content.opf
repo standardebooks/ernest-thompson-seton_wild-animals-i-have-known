@@ -40,7 +40,7 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>Eight short stories about the lives of various animals across several regions of North America.</dc:abstract>
+		<meta property="schema:abstract">Eight short stories about the lives of various animals across several regions of North America.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Wild Animals I Have Known&lt;/i&gt;, a collection of short stories published in 1898, was &lt;a href="https://standardebooks.org/ebooks/ernest-thompson-seton"&gt;Ernest Thompson Seton’s&lt;/a&gt; most popular work and one of the most popular fiction books of its day.&lt;/p&gt;
 			&lt;p&gt;The stories are largely independent of each other, with each one following the life of a different animal. They explore themes of survival in a world populated by humans and other creatures, and the challenges that each animal faces in its efforts to thrive. Each story touches on the duality between the beauty and brutality of the natural world. The collection as a whole illustrates recurring themes of triumph and tragedy, while painting a picture of the great freedom and grave danger that animals face every day of their lives.&lt;/p&gt;
