@@ -51,7 +51,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/3031</dc:source>
 		<dc:source>https://archive.org/details/bwb_T4-APT-726</dc:source>
 		<meta property="schema:wordCount">51883</meta>
-		<meta property="schema:educationalLevel">73.41</meta>
+		<meta property="schema:educationalLevel">73.51</meta>
 		<link href="https://en.wikipedia.org/wiki/Wild_Animals_I_Have_Known" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
